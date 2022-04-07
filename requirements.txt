@@ -1,0 +1,9 @@
+networkx
+tsplib95
+deap
+matplotlib
+numpy
+pandas
+scipy
+#python-tk
+#cec2013single
